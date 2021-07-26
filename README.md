@@ -13,3 +13,4 @@
 |my_kmeans|R의 kmeans|
 |:--:|:--:|
 |![image](https://user-images.githubusercontent.com/72850237/126924786-da3a8b32-4e61-416b-9fda-4b6737c3a3af.png)|![image](https://user-images.githubusercontent.com/72850237/126924837-24b9cb2b-94ba-45d1-8b4d-e47878088817.png)|
+|정확도 0.93|정확도 0.927|
