@@ -12,3 +12,4 @@
 ### 직접 만든 K-means 함수와 R의 kmeans 함수와 성능 비교
 |my_kmeans|R의 kmeans|
 |:--:|:--:|
+|![image](https://user-images.githubusercontent.com/72850237/126924786-da3a8b32-4e61-416b-9fda-4b6737c3a3af.png)|![image](https://user-images.githubusercontent.com/72850237/126924837-24b9cb2b-94ba-45d1-8b4d-e47878088817.png)|
